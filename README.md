@@ -23,3 +23,35 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<!-- start work experience section -->
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://www.mdu.com">Endpoint Administrator at MDU Resources Group, Inc.</a> </b></td>
+      <td>Imaging Computer, ...</td>
+      <td>January 2022 - Present</td>
+    </tr>
+  	<tr>
+      <td><b><a href="https://www.marines.mil">Network Administrator at US Marine Corps</a> </b></td>
+      <td>Networking ...</td>
+      <td>October 2017 - Present</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.siliconplains.net/">MSP IT Administrator at Silicon Plains, LLC</a> </b></td>
+      <td>Solving questions.</td>
+      <td>March 2021 - December 2021</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->
