@@ -7,6 +7,10 @@
 -->
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/)
+[![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![Medium Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
+
+
 <h3>Social Media</h3>
 <p>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic?&logo=gmail&logoColor=white" />
