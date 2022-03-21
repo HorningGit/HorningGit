@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 -->
 
-<!--
+
 <h3>Social Media</h3>
 <p>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic?&logo=gmail&logoColor=white" />
@@ -14,15 +14,7 @@
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic?&logo=twitter&logoColor=white" />
   <img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white" />
 </p>
-
-<h3>Programming</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=plastic?&logo=python&logoColor=blue" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic?&logo=powershell&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=plastic?&logo=go&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic?e&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell_Scripts-121011?style=plastic?&logo=gnu-bash&logoColor=white" />
-</p>
+<!--
 
 <h3>Social Media</h3>
 <p>
@@ -78,11 +70,13 @@
 ## Horning's Daily Toolkit
 Type | Toolkits & Platforms
 :------|:------:
-Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic?&logo=azure-devops&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic?&logo=amazonaws&logoColor=white" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic?&logo=github-actions&logoColor=white" />
+Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic?&logo=azure-devops&logoColor=white" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic?&logo=github-actions&logoColor=white" />
 Workflow Platforms| <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic?&logo=Jira&logoColor=white" /> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=plastic?&logo=Jenkins&logoColor=white" /> 
 Servers | <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white" /> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white" />
 Linux OS(s) | <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic?&logo=linux&logoColor=black" /> <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic?&logo=linux-mint&logoColor=white" /> <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=plastic?&logo=freebsd&logoColor=white" /> <img alt="CentOS" src="https://img.shields.io/badge/Cent%20OS-262577?style=plastic?&logo=CentOS&logoColor=white" />
 Containers | <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white" />
+Languages | <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=plastic?&logo=python&logoColor=blue" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic?&logo=powershell&logoColor=white" /> <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=plastic?&logo=go&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic?e&logo=javascript&logoColor=F7DF1E" /> <img alt="Shell" src="https://img.shields.io/badge/Shell_Scripts-121011?style=plastic?&logo=gnu-bash&logoColor=white" />
+
 
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
