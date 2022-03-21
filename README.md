@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
-<h3>Things I code with</h3>
+<h3>My Crypto Invesments</h3>
 <p>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
   <img alt="Chainlink" src="https://img.shields.io/badge/chainlink-375BD2?style=plastic?&logo=chainlink&logoColor=white" />
@@ -30,11 +30,22 @@
   <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=plastic?&logo=freebsd&logoColor=white" />
   
   
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
+  <img alt="CentOS" src="https://img.shields.io/badge/Cent%20OS-262577?style=plastic?&logo=CentOS&logoColor=white" />
+  <img alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=plastic?&logo=microsoft-sharepoint&logoColor=white" />
+  <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=plastic?&logo=Atom&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=plastic?&logo=vim&logoColor=white" />
+  <img alt="Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic?&logo=microsoft-teams&logoColor=white" />
+
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=plastic?&logo=discord&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=plastic?&logo=ansible&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+  
+  
+  <img alt="Ethereum" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   
 </p>
 
