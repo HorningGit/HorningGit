@@ -8,7 +8,7 @@
 
 <!-- Work Experience -->
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary><b> My Work Experience (Please Open!):alien: </b></summary>
 <table>
   <thead>
     <tr>
@@ -40,9 +40,9 @@
 </table>
 </details>
 
-## :wrench:Horning's Essential Tools:hammer:
+## :wrench:Horning's Essential Tools (Please Expand!):hammer:
 <details>
-<summary><b> Infrastructures of Focus :point_right: </b></summary>
+<summary><b> Infrastructures of Focus :bear: </b></summary>
 <table>
   
 <!-- Infrastructure Toolkits -->
@@ -57,7 +57,7 @@ Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20
   
  <!-- DevOps Tools -->
 <details>
-<summary><b> DevOps Tools of Focus :point_right: </b></summary>
+<summary><b> DevOps Tools of Focus :whale2: </b></summary>
 <table>
   
 DevOps Type | Toolkits & Platforms
@@ -71,7 +71,7 @@ Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsof
  
  <!-- Editing Tools -->
 <details>
-<summary><b> Languages of Focus :point_right: </b></summary>
+<summary><b> Languages of Focus :wolf: </b></summary>
 <table>
 
 Creation Type | Toolkits & Platforms
@@ -81,6 +81,7 @@ Editing | <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=pl
 </table>
 </details>
 
+## Blog Posts, Stats, & Ideas
 <!-- List favorite blockchains -->
 #### :alien:Blockchains of Interest:green_heart:
 * <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
