@@ -50,19 +50,6 @@ Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsof
 </table>
 </details>
 
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=plastic?&logo=git&logoColor=white" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=plastic?&logo=tmux&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=plastic?&logo=ansible&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=plastic?&logo=npm&logoColor=white" />
-  <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic?&logo=codecademy&logoColor=303347" />
-</p>
-
-<p>
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorningGit" />
-</p>
--->
-
 ### Favorite Cryptocurrencies
 <p>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
