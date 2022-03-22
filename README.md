@@ -1,11 +1,13 @@
 <!-- Contact & Sites-->
+
+#### :us: Connecting with Me :us:
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Horning-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alexander-horning-5b8bb918b/)](https://www.linkedin.com/in/alexander-horning-5b8bb918b/)
 [![Twitter Badge](http://img.shields.io/badge/-@LinuxTyranitar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/LinuxTyranitar)](https://twitter.com/LinuxTyranitar)
 [![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
 <!-- Toolkit -->
-## Horning's Essential Tools
+## :wrench:Horning's Essential Tools:hammer:
 Type | Toolkits & Platforms
 :------|:------:
 Operating Systems | <img alt="WindowsServer" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white" /> <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic?&logo=linux&logoColor=black" /> <img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic?&logo=linux-mint&logoColor=white" /> <img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white" /> <img alt="CentOS" src="https://img.shields.io/badge/Cent%20OS-262577?style=plastic?&logo=CentOS&logoColor=white" />
@@ -31,16 +33,19 @@ Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsof
     </tr>
   </thead>
   <tbody>
+    <!-- MDU -->
     <tr>
       <td><b><a href="https://www.mdu.com">Endpoint Administrator at MDU Resources Group, Inc.</a> </b></td>
       <td>Imaging Computer, ...</td>
       <td>January 2022 - Present</td>
     </tr>
+    <!-- USMC -->
   	<tr>
       <td><b><a href="https://www.marines.mil">Network Administrator at US Marine Corps</a> </b></td>
       <td>Networking ...</td>
       <td>October 2017 - Present</td>
     </tr>
+    <!-- SP -->
     <tr>
       <td><b><a href="https://www.siliconplains.net/">MSP IT Administrator at Silicon Plains, LLC</a> </b></td>
       <td>Solving questions.</td>
@@ -50,9 +55,8 @@ Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsof
 </table>
 </details>
 
-### Favorite Cryptocurrencies
-<p>
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
-  <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=plastic?&logo=chainlink&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-</p>
+<!-- List favorite blockchains -->
+#### :alien:Blockchains of Interest:green_heart:
+* <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
+* <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
+* <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=plastic?&logo=chainlink&logoColor=white" />
