@@ -12,6 +12,7 @@
   <thead>
     <tr>
       <th>Job Name</th>
+      <th>Company</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
     </tr>
@@ -19,13 +20,15 @@
   <tbody>
     <!-- MDU -->
     <tr>
-      <td><b><a href="https://www.mdu.com">Endpoint Administrator at MDU Resources Group, Inc.</a> </b></td>
+      <td><b><a href="https://www.mdu.com">Endpoint Administrator</a> </b></td>
+      <td>MDU Resources Group, Inc.</td>
       <td></td>
       <td>January 2022 - Present</td>
     </tr>
     <!-- USMC -->
   	<tr>
-      <td><b><a href="https://www.marines.mil">Network Administrator at US Marine Corps</a> </b></td>
+      <td><b><a href="https://www.marines.mil">Network Administrator</a> </b></td>
+      <td>US Marine Corps</td>
       <td>Managing deployments of Cisco routing and switching equipment on LAN/WAN(s) to enable secure command and control. Duties included the following:
  
  - Configuring subnets, VLANs, and trunk ports for network segmentation.
@@ -41,7 +44,8 @@
     </tr>
     <!-- SP -->
     <tr>
-      <td><b><a href="https://www.siliconplains.net/">MSP IT Administrator at Silicon Plains, LLC</a> </b></td>
+      <td><b><a href="https://www.siliconplains.net/">MSP IT Administrator</a></b></td>
+      <td>Silicon Plains, LLC</td>
       <td>
 - Worked with on-premises, hybrid, and Azure Active Directory environments to manage users, security groups, and software suites (Group Policy, Print Management, Shared Drives).
 
