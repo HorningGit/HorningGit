@@ -82,6 +82,7 @@ ___
     <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic?&logo=powershell&logoColor=white"></a>
     <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=plastic?&logo=go&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=plastic?&logo=python&logoColor=blue"></a>
+    <a href="#"><img alt="Bash Scripts" src="https://img.shields.io/badge/Shell_Scripts-121011?style=plastic?&logo=gnu-bash&logoColor=white"></a>
 </p>
 
 <!--Servers-->
@@ -91,8 +92,6 @@ ___
     <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white"></a>
     <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white"></a>
-    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
-    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
 </p>
 
 <!--Containers/Orchestration-->
