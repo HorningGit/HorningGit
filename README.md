@@ -125,17 +125,6 @@ Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsof
 </table>
 </details>
  
- <!-- Editing Tools -->
-<details>
-<summary><b> Languages of Focus :wolf: </b></summary>
-<table>
-
-Creation Type | Toolkits & Platforms
-:------|:------:
-Languages | <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic?&logo=powershell&logoColor=white" /> <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=plastic?&logo=go&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic?e&logo=javascript&logoColor=F7DF1E" /> <img alt="Shell" src="https://img.shields.io/badge/Shell_Scripts-121011?style=plastic?&logo=gnu-bash&logoColor=white" />
-Editing | <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=plastic?&logo=tmux&logoColor=white" /> <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=plastic?&logo=Atom&logoColor=white" /> <img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=plastic?&logo=vim&logoColor=white" /> 
-</table>
-</details>
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HorningGit&">
