@@ -5,6 +5,25 @@
 [![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
+<p>
+    <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=plastic?&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic?&logo=linux-mint&logoColor=white"></a>
+    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
+    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+  
 <!-- Work Experience -->
 <details>
 <summary><b> My Work Experience (Please Open!):alien: </b></summary>
