@@ -5,7 +5,10 @@
 [![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
-<!--Operating Systems-->
+___
+<!--Operating_Systems-->
+### Infrastructures of Focus
+##### Operating Systems 
 <p>
     <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white"></a>
@@ -15,10 +18,8 @@
     <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
 </p>
 
-___
 <!--Servers-->
 ##### Servers
-
 <p>
     <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
@@ -28,7 +29,6 @@ ___
     <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
 </p>
 
-___
 <!--Containers/Orchestration-->
 ##### Containers & Orchestration
 <p>
