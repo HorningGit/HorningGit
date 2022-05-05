@@ -109,7 +109,6 @@ ___
     <a href="#"><img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black"></a>
 </p>
 
-____
 <!--DevOps_Tools_of_Focus-->
 <details>
 <summary><b> DevOps Tools of Focus :whale2: </b></summary>
@@ -123,7 +122,8 @@ Monitoring & Dashboards | <img alt="Grafana" src="https://img.shields.io/badge/G
 Collaboration | <img alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=plastic?&logo=microsoft-sharepoint&logoColor=white" /> <img alt="Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic?&logo=microsoft-teams&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=plastic?&logo=discord&logoColor=white" />
 </table>
 </details>
- 
+
+____
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HorningGit&">
