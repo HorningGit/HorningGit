@@ -63,10 +63,6 @@
 [![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HorningGit&">
-</p>
-
 ___
 <!--Operating_Systems-->
 ### Infrastructures of Focus
@@ -141,9 +137,6 @@ Editing | <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=pl
 </table>
 </details>
 
-## Blog Posts, Stats, & Ideas
-<!-- List favorite blockchains -->
-#### :alien:Blockchains of Interest:green_heart:
-* <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=plastic?&logo=bitcoin&logoColor=white" />
-* <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D??style=plastic?&logo=Ethereum&logoColor=white" />
-* <img alt="Chainlink" src="https://img.shields.io/badge/Chainlink-375BD2?style=plastic?&logo=chainlink&logoColor=white" />
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HorningGit&">
+</p>
