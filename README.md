@@ -93,28 +93,16 @@ ___
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white"></a>
 </p>
 
-___
-Containers & Orchestration | <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white" />
-Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black" />
+<!--Cloud_Platforms-->
+##### Cloud Platforms
+<p>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white"></a>
+    <a href="#"><img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black"></a>
+    <a href="#"><img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black"></a>
+</p>
 
-
-
-
-## :wrench:Horning's Essential Tools (Please Expand!):hammer:
-<details>
-<summary><b> Infrastructures of Focus :bear: </b></summary>
-<table>
-  
-<!-- Infrastructure Toolkits -->
-Infrastructure Type | Toolkits & Platforms
-:------|:------:
-Servers | <img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white" /> <img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white" /> <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white" />  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white" />
-Containers & Orchestration | <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white" />
-Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black" />
-</table>
-</details>
-  
- <!-- DevOps Tools -->
+____
+<!--DevOps_Tools_of_Focus-->
 <details>
 <summary><b> DevOps Tools of Focus :whale2: </b></summary>
 <table>
