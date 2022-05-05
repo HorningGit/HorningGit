@@ -65,7 +65,7 @@
 ___
 <!--Operating_Systems-->
 ### Infrastructures of Focus
-##### Operating Systems 
+###### Operating Systems
 <p>
     <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white"></a>
@@ -75,8 +75,16 @@ ___
     <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
 </p>
 
+<!--Program-->
+###### Programming & Command Languages
+<p>
+    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic?&logo=powershell&logoColor=white"></a>
+    <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=plastic?&logo=go&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=plastic?&logo=python&logoColor=blue"></a>
+</p>
+
 <!--Servers-->
-##### Servers
+###### Servers
 <p>
     <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
@@ -87,14 +95,14 @@ ___
 </p>
 
 <!--Containers/Orchestration-->
-##### Containers & Orchestration
+###### Containers & Orchestration
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white"></a>
 </p>
 
 <!--Cloud_Platforms-->
-##### Cloud Platforms
+###### Cloud Platforms
 <p>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white"></a>
     <a href="#"><img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black"></a>
