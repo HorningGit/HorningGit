@@ -5,47 +5,6 @@
 [![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
-___
-<!--Operating_Systems-->
-### Infrastructures of Focus
-##### Operating Systems 
-<p>
-    <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=plastic?&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic?&logo=linux-mint&logoColor=white"></a>
-    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
-    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
-</p>
-
-<!--Servers-->
-##### Servers
-<p>
-    <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white"></a>
-    <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white"></a>
-    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
-    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
-</p>
-
-<!--Containers/Orchestration-->
-##### Containers & Orchestration
-<p>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white"></a>
-</p>
-
-___
-Containers & Orchestration | <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white" />
-Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black" />
-
-
-
-
-
-
-  
 <!-- Work Experience -->
 <details>
 <summary><b> My Work Experience (Please Open!):alien: </b></summary>
@@ -102,6 +61,44 @@ Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20
   </tbody>
 </table>
 </details>
+
+___
+<!--Operating_Systems-->
+### Infrastructures of Focus
+##### Operating Systems 
+<p>
+    <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic?&logo=redhat&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=plastic?&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic?&logo=linux-mint&logoColor=white"></a>
+    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
+    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
+</p>
+
+<!--Servers-->
+##### Servers
+<p>
+    <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white"></a>
+    <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="Raspbian" src="https://img.shields.io/badge/Rasbian-A22846?style=plastic?&logo=Raspberry%20Pi&logoColor=white"></a>
+    <a href="#"><img alt="Alma Linux" src="https://img.shields.io/badge/Alma%20Linux-262577?style=plastic?&logo=centos&logoColor=white"></a>
+</p>
+
+<!--Containers/Orchestration-->
+##### Containers & Orchestration
+<p>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white"></a>
+</p>
+
+___
+Containers & Orchestration | <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic?&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&?style=plastic?&logo=kubernetes&logoColor=white" />
+Cloud Platforms| <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1572A1?style=plastic?&logo=Microsoft-Azure&logoColor=white" /> <img alt="Azure_Devops" src="https://img.shields.io/badge/Azure_DevOps-9AD0EC?style=plastic?&logo=azure-devops&logoColor=black" /> <img alt="GitHub_Actions" src="https://img.shields.io/badge/GitHub_Actions-0078D6?style=plastic?&logo=github-actions&logoColor=black" />
+
+
+
 
 ## :wrench:Horning's Essential Tools (Please Expand!):hammer:
 <details>
