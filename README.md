@@ -94,8 +94,6 @@ ___
     <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white"></a>
 </p>
 
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=plastic?&logo=Jenkins&logoColor=white" />
-
 <!--Containers/Orchestration-->
 ###### Containers & Orchestration
 <p>
