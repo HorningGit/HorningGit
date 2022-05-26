@@ -89,9 +89,12 @@ ___
 <p>
     <a href="#"><img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Group Policy" src="https://img.shields.io/badge/Group_Policy-F190B7?style=plastic?&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=plastic?&logo=Jenkins&logoColor=white"></a>
     <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=plastic?&logo=Apache&logoColor=white"></a>
     <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=plastic?&logo=nginx&logoColor=white"></a>
 </p>
+
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=plastic?&logo=Jenkins&logoColor=white" />
 
 <!--Containers/Orchestration-->
 ###### Containers & Orchestration
