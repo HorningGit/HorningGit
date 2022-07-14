@@ -1,9 +1,7 @@
 <!-- Contact & Sites-->
 ### :rice_ball: Contact Me :rice_ball:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Horning-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alexander-horning-5b8bb918b/)](https://www.linkedin.com/in/alexander-horning-5b8bb918b/)
-[![Twitter Badge](http://img.shields.io/badge/-@LinuxTyranitar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/LinuxTyranitar)](https://twitter.com/LinuxTyranitar)
-[![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alexander-horning-5b8bb918b/)](https://www.linkedin.com/in/alexander-horning-5b8bb918b/)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
 
 ___
