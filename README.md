@@ -6,7 +6,7 @@
 
 ___
 <!--Operating_Systems-->
-### Infrastructures of Focus
+### Development & Operations of Focus
 ###### Operating Systems
 <p>
     <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic?&logo=windows&logoColor=white"></a>
