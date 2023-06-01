@@ -42,35 +42,35 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
 
-#### Working with Teams
+### Working with Teams
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
-#### Operating Systems
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-##### Infrastructure as Code & Configuration Management
+### Infrastructure as Code & Configuration Management
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white)
 
-#### Continuous Integration/Deployment/Delivery
+### Continuous Integration/Deployment/Delivery
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 
-#### Work Tools
+### Work Tools
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
 ![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 
-#### Cryptocurrency :stars:
+### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
