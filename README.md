@@ -4,21 +4,16 @@
 ## ⚡ Technologies
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
-![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
 ![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
@@ -50,6 +45,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
 #### Languages
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
@@ -62,11 +58,13 @@
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white)
+![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-##### Infrastructure as Code
+##### Infrastructure as Code & Configuration Management
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
-
-
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white)
 
 #### Continuous Integration/Deployment/Delivery
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
