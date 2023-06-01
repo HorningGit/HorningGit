@@ -9,6 +9,7 @@
 | Working with Teams | ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) |
 | CI/CD/CD | ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe) |
 | Iac & Configuration Management | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white) |
+| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white) ![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi) |
 
 
 #### Website/Documentation/Blog Building
@@ -28,14 +29,7 @@
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
-![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white)
-![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
-### Infrastructure as Code & Configuration Management
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white) ![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 ### Work Tools
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
