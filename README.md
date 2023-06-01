@@ -6,22 +6,14 @@
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689) |
 | Monitoring | ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9) |
 | Languages | ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white) |
+| Working with Teams | ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) | 
 
-
-
-
-#### Containers & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
 
 #### Website/Documentation/Blog Building
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)
-
-
-#### Monitoring
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
 #### On-Prem Infrastructure
 ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
@@ -30,13 +22,8 @@
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white)
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
-
 ### Working with Teams
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
