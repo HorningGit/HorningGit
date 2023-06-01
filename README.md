@@ -16,8 +16,7 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
+![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
 ![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
