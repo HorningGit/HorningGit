@@ -17,9 +17,9 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
-
-
-
+![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=horninggit&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
