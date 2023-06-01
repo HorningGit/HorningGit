@@ -55,8 +55,8 @@
 
 ### Continuous Integration/Deployment/Delivery
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
-![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=Azure-Repos&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
 
 ### Cryptocurrency :stars:
