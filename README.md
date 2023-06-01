@@ -6,7 +6,8 @@
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689) |
 | Monitoring | ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9) |
 | Languages | ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white) ![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white) |
-| Working with Teams | ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) | 
+| Working with Teams | ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) |
+| CI/CD/CD | ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe) |
 
 
 #### Website/Documentation/Blog Building
@@ -37,10 +38,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white)
 
 ### Continuous Integration/Deployment/Delivery
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
-![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 
 ### Work Tools
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
