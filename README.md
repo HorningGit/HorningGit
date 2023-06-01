@@ -11,10 +11,16 @@
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 
+| Technology | Tools |
+| --- | ----------- |
+| Containers & Orchestration | ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689) |
+| Monitoring | ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9) |
+
+
+
+
 #### Containers & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
+![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
 
 #### Website/Documentation/Blog Building
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
@@ -24,9 +30,7 @@
 
 
 #### Monitoring
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
 #### On-Prem Infrastructure
 ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
