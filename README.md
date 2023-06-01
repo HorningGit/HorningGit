@@ -9,7 +9,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white)
@@ -41,38 +40,39 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 
-### Monitoring
+#### Monitoring
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
-### Languages
+#### Languages
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 
-### Working with Teams
+#### Working with Teams
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
-### Operating Systems
+#### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
-### Infrastructure as Code
+##### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
 
-### Continuous Integration/Deployment/Delivery
+
+
+#### Continuous Integration/Deployment/Delivery
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 
 ### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
