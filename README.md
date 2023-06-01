@@ -1,16 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=plastic&logo=azure-functions&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
-
 | Technology | Tools |
 | --- | ----------- |
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689) |
@@ -83,3 +73,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=plastic&logo=azure-functions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
