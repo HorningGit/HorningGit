@@ -2,45 +2,45 @@
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-
-![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
-![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white)
-![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=plastic&logo=microsoft&logoColor=white)
-![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)
-
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=plastic&logo=azure-functions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
-
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
-
-
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
+
+#### Containers & Orchestration
+![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689)
+
+#### Website/Documentation/Blog Building
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)
+
 
 #### Monitoring
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-232F7E?style=plastic&logo=microsoft-azure)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=plastic&logo=prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=plastic&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
+#### On-Prem Infrastructure
+![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white)
+![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white)
+
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white)
 
 #### Working with Teams
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
@@ -65,10 +65,10 @@
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe)
 
 #### Work Tools
-![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
+![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)
 
 #### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
