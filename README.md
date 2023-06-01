@@ -63,7 +63,7 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 
-#### Cryptocurrency :coin:
+#### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
