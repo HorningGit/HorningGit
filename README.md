@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@alex_horning)
 
 | Technology | Tools |
 | --- | ----------- |
@@ -10,13 +10,9 @@
 | CI/CD/CD | ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D7?style=plastic&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=plastic&logo=githubactions&logoColor=367cfe) |
 | Iac & Configuration Management | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=plastic&logo=ansible&logoColor=white) |
 | Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white) ![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi) |
+| Work Tools | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white) ![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) |
+| Websites/Docs/Blogs | ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white) |
 
-
-#### Website/Documentation/Blog Building
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)
 
 #### On-Prem Infrastructure
 ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
@@ -24,18 +20,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white)
-
-### Working with Teams
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![MAC OS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=apple&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white) ![Raspbian](https://img.shields.io/badge/-Raspbian%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
-### Work Tools
-![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=plastic&logo=apple&logoColor=white)
-![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 
 ### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
