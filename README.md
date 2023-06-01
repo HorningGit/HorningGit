@@ -53,8 +53,13 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
 
+### Continuous Integration/Deployment/Delivery
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=plastic&logo=Azure-Pipelines&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
 
-#### Cryptocurrency :stars:
+
+### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
