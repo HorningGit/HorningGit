@@ -20,9 +20,8 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=horninggit&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=horninggit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
