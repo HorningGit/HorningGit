@@ -17,9 +17,10 @@
 | On-Prem Infrastructure | ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white) ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white) |
 | Source Control | ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) |
 
+### My GitHub Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=horninggit&theme=tokyonight)
 
-![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&theme=tokyonight&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&theme=tokyonight&layout=compact)
 
 ### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
