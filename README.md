@@ -1,6 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@alex_horning)
 
+
+### My Expertise
 | Technology | Tools |
 | --- | ----------- |
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=plastic&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&labelColor=0F1689) |
