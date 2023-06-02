@@ -13,6 +13,7 @@
 | Work Tools | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white) ![Brave Browser](https://img.shields.io/badge/Brave-FF1B2D?style=plastic&logo=Brave&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) |
 | Websites/Docs/Blogs | ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=Jekyll&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white) |
 | On-Prem Infrastructure | ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white) ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white) |
+| Source Control | ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) |
 
 ### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
@@ -23,8 +24,8 @@
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
+
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=plastic&logo=azure-functions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
