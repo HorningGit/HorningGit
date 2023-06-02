@@ -15,19 +15,9 @@
 | On-Prem Infrastructure | ![Pi-Hole](https://img.shields.io/badge/PiHole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-231f20?style=plastic&logo=VMware&logoColor=white) ![Virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=plastic&logo=VirtualBox&logoColor=white) |
 | Source Control | ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
+
 ### Cryptocurrency :stars:
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=plastic&logo=Coinbase&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=plastic&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&hide=TeX&layout=compact)
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-
-
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=plastic&logo=azure-functions&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
