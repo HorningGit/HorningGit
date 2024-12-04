@@ -18,9 +18,6 @@
 | Source Control | ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=plastic&logo=azure-devops&logoColor=white) |
 
 ### My GitHub Stats
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=horninggit&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=horninggit&theme=tokyonight)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horninggit&theme=tokyonight&layout=compact)
 
